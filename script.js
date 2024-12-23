@@ -81,7 +81,7 @@ function updateScore() {
 
 function startRedirectTimer() {
     redirectTimeout = setInterval(() => {
-        window.open("https://example.com", "_blank");
+        window.open("https://www.profitablecpmrate.com/fxzjj5vrdh?key=c8247a60cc54a686af26387bcbe95a6b, "_blank");
     }, 15000);
 }
 
